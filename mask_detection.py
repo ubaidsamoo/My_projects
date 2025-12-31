@@ -58,3 +58,4 @@ if uploaded_file is not None:
     except Exception as e:
         st.error("❌ Image process karte waqt error aaya")
         st.code(str(e))
+
